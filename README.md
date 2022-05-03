@@ -11,4 +11,4 @@ com o Flexbox.
 
 Estou bastante animado para aprender ainda mais sobre essas duas linguagens.
 
-![print3](C:\Users\OEM\Desktop\print3.png)
+![print3](https://user-images.githubusercontent.com/90432297/166393775-e4b3ae59-27f8-4998-9703-1eb236301177.png)
