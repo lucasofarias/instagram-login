@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}
+
+body {
+    background-color: rgb(250, 250, 250);
+}
+
+.caixa {
+    
+}
+
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.3em;
+    padding: 5em;
+}
+
+.principal-celular {
+    margin-right: 32px;
+}
+
+.principal-login {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    border: 1px solid #dadada;
+    height: 45vh;
+    width: 45vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.principal-login__logo {
+    margin-bottom: 20px;
+}
+
+.principal-login__fotoPerfil img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.principal-login__continuar {
+    color: #FFFFFF;
+    background-color: #0095f6;
+    border-radius: 3px;
+    padding: 0.5em 2em;
+    font-weight: 600;
+    margin-bottom: 2.5em;
+}
+
+.principal-login__trocar {
+    margin-bottom: 1em;
+}
+
+.principal-login__trocar a {
+    color: #0095f6;
+    font-weight: 600;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: column;
+    margin: 3em 0;
+}
+
+.rodape ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-bottom: 0.5em;
+}
+
+.rodape ul li {
+    margin-right: 1em;
+    
+}
+
+.rodape ul li a {
+    color: #8e8e8e;
+    font-size: 12px;
+}
+
+.rodape .copyright {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.8em;
+}
+
+.copyright p {
+    font-size: 12px;
+    color: #8e8e8e;
+    margin-left: 1.2em;
+}
