@@ -9,6 +9,4 @@ Construi mais uma página de login do Instagram, onde utilizei as linguagens HTM
 Nessa nova versão eu adicionei o rodapé da página de login do Instagram, e com isso eu pude adquirir um melhor conhecimento
 com o Flexbox.
 
-Estou bastante animado para aprender ainda mais sobre essas duas linguagens.
-
 ![print3](https://user-images.githubusercontent.com/90432297/166393775-e4b3ae59-27f8-4998-9703-1eb236301177.png)
