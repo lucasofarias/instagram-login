@@ -1,8 +1,6 @@
-# Interface de login do Instagram
+## Interface de login do Instagram
 
-
-
-## Olá, seja bem-vindo(a)! 👋
+### Olá, seja bem-vindo(a)! 👋
 
 Construi mais uma página de login do Instagram, onde utilizei as linguagens HTML e CSS, junto com o conceito de Flexbox.
 
